@@ -14,11 +14,7 @@ git clone https://github.com/BlathanAevon/evm_wallets_generate.git
 
 3. Go to directory
 ```bash
-cd evm_wallets_generate/python
-```
-or (on Windows)
-```bash
-cd evm_wallets_generate\python
+cd evm_wallets_generate
 ```
 4. Virtual Environment creation
 ```bash
